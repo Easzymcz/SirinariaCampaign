@@ -11,7 +11,8 @@ module.exports = {
     lastUpdated: 'Last Updated',
     nav: [
       {text: 'Home', link: '/'},
-      {text: 'House Rules', link: '/HouseRules.html'}
+      {text: 'House Rules', link: '/HouseRules.html'},
+      {text: 'Adventure Log', link: '/AdventureLog/1-AmateurNecromancy.html'}
     ]
   }
 }
