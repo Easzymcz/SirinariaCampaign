@@ -7,6 +7,7 @@ module.exports = {
     docsDir: 'docs',
     logo: '/assets/img/treasure-map.png',
     sidebar: 'auto',
+    sidebarDepth: 4,
     lastUpdated: 'Last Updated',
     nav: [
       {text: 'Home', link: '/'},
