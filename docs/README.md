@@ -1,15 +1,8 @@
 ---
 home: true
 heroImage: /assets/img/cloak-dagger.png
-actionText: Get Started →
-actionLink: /HouseRules.html
-features:
-- title: House Rules
-  details: A rules reference for rules specific to this campaign.
-- title: Adventure Log
-  details: A guide to our many adventures in Sirinaria.
-- title: Musings
-  details: Miscellaneous writings pertaining to our campaign.
+actionText: Adventure Log →
+actionLink: /AdventureLog/1-AmateurNecromancy.html
 footer: Bobby is the best!
 ---
 
