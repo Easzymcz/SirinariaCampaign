@@ -3,7 +3,7 @@ home: true
 heroImage: /assets/img/cloak-dagger.png
 actionText: Adventure Log →
 actionLink: /AdventureLog/1-AmateurNecromancy.html
-footer: Bobby is the best!
+footer: This work is licensed under a Creative Commons Attribution 4.0 International License.
 ---
 
 This website contains house rules, campaign notes, musings, adventure logs, etc.
