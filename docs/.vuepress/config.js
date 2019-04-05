@@ -12,7 +12,7 @@ module.exports = {
     nav: [
       {text: 'Home', link: '/'},
       {text: 'House Rules', link: '/HouseRules.html'},
-      {text: 'Adventure Log', link: '/AdventureLog/1-AmateurNecromancy.html'}
+      {text: 'Adventure Log', link: '/AdventureLog/'}
     ]
   }
 }

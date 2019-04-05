@@ -1,7 +1,7 @@
 ---
-title: Chapter 4 Hunting For Bandits
-prev: /AdventureLog/3-TravelingToGreegate.html
-next: /AdventureLog/5-JourneyToIngbluff.html
+title: Hunting For Bandits
+chapter: 4
+layout: Post
 ---
 We enter a cave guarded by two city guards, fight past some trope (darkmantles, giant rat, bats, centipedes), and find a trapped chest.  We disarm the chest and loot the trap (a glass arrow with an acid vial attached - later destroyed in The Book That Almost Killed Us).  We then hit repeated traps that affect Liara and rest before pressing on.
 

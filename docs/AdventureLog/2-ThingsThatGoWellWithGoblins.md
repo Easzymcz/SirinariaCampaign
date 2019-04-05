@@ -1,7 +1,7 @@
 ---
-title: Chapter 2 Things That Go Well With Goblins
-prev: /AdventureLog/1-AmateurNecromancy.html
-next: /AdventureLog/3-TravelingToGreegate.html
+title: Things That Go Well With Goblins
+chapter: 2
+layout: Post
 ---
 
 The players meet Hard Luck Ceonre and are informed that the individual goblin bands that infest the nearby woods are joining forces under the banner of a Hobgoblin. They must be stopped now before they become too much of a problem.

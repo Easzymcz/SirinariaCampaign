@@ -1,7 +1,7 @@
 ---
-title: Chapter 3 Traveling to Greegate
-prev: /AdventureLog/2-ThingsThatGoWellWithGoblins.html
-next: /AdventureLog/4-HuntingForBandits.html
+title: Traveling to Greegate
+chapter: 3
+layout: Post
 ---
 ## Introduction: 
 Before traveling to Greegate the Party is given a donkey and some trade goods.l 

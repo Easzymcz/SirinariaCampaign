@@ -1,7 +1,7 @@
 ---
-title: Chapter 1 Amateur Necromancy
-prev: false
-next: /AdventureLog/2-ThingsThatGoWellWithGoblins.html
+title: Amateur Necromancy
+chapter: 1
+layout: Post
 ---
 
 You are midway through summer in Hawksmont. The days have been unusually hot even for it being mid-summer. A gentle breeze provides very little respite from the heat and instead just feels like hot air against your sticky sweat-soaked skin. Cicada and other warm-weather insects buzz incessantly. Heat waves like this are the kind that can bring a village like this to ruin. The only saving grace is heavy rain from the West that seems to arrive like clockwork every third night. These storms are fierce and bring winds strong enough to blow down a man or a poorly constructed home. It's hard to say really for sure whether it's true but some villagers believe that each storm is worse than the last. The winds and hard driving rain make going outdoors a danger and travel nearly impossible. Without them refilling the rapidly depleting wells on a regular basis though there is no doubt that Hawksmont would not survive the daytime heat.
